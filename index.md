@@ -14,3 +14,22 @@
 <div class="likecoin-embed likecoin-button" data-liker-id="hnsdomains" data-href="https://liker.land/hnsdomains/"></div>
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="https://flashphoner.com/downloads/builds/flashphoner_client/wcs_api-2.0/current/flashphoner.js"></script>
+    <script type="text/javascript" src="phone-min.js"></script>
+</head>
+ 
+<body onload="init_page()">
+    <input id="callee" type="text" placeholder="Callee SIP username"/>
+    <button type="button" onclick="call()">Call</button>  
+    <br>
+    <div id="status"></div>
+    <button id="answerBtn" type="button">Answer</button>
+    <button id="hangupBtn" type="button">Hangup</button>
+    <div id="localAudio"></div>
+    <div id="remoteAudio"></div>
+</body>
+</html>
