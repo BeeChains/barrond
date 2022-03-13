@@ -14,11 +14,4 @@
 <div class="likecoin-embed likecoin-button" data-liker-id="hnsdomains" data-href="https://liker.land/hnsdomains/"></div>
 <script src="https://static.like.co/sdk/v1/button.js"></script>
 
-<!-- OnSIP -->
-<script>
-  window.onsip=window.onsip||{};
-  window.onsip.do=window.onsip.do||function(){(onsip.q=onsip.q||[]).push(arguments)};
-  onsip.do('preload','174944');
-</script>
-<script defer src="https://js.onsip.com/onsip.js"></script>
-<!-- End OnSIP -->
+
