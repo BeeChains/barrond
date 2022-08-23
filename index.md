@@ -20,4 +20,4 @@
 <div align="center">
 <marquee direction="left" scrollamount="3" scrolldelay="2" behavior="left" width="100%" bgcolor="#020320">
 AR.🐘🕸/ 
-	</div>
+	
