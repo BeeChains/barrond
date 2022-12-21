@@ -20,4 +20,42 @@
 <div align="center">
 <marquee direction="left" scrollamount="3" scrolldelay="2" behavior="left" width="100%" bgcolor="#020320">
 AR.🐘🕸/ 
+
 	
+<head>
+  <style>
+    .borromean-rings {
+      position: relative;
+    }
+
+    .circle {
+      position: absolute;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      background-color: #000;
+    }
+
+    .circle-1 {
+      top: calc(50% - 25px);
+      left: calc(50% - 25px);
+    }
+
+    .circle-2 {
+      top: calc(50% - 25px);
+      left: calc(50% - 25px - 86px);
+    }
+
+    .circle-3 {
+      top: calc(50% - 25px - 50px);
+      left: calc(50% - 25px - 43px);
+    }
+  </style>
+</head>
+<body>
+  <div class="borromean-rings">
+    <div class="circle circle-1"></div>
+    <div class="circle circle-2"></div>
+    <div class="circle circle-3"></div>
+  </div>
+</body>
