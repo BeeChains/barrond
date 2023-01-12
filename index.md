@@ -23,4 +23,25 @@
 AR.🐘🕸/ 
 
 	
-
+<div>
+ <script>
+var letterB = document.createElement('div');
+letterB.innerHTML = 'B';
+letterB.style.fontSize = '100px';
+letterB.style.position = 'absolute';
+letterB.style.top = '50%';
+letterB.style.left = '50%';
+letterB.style.marginTop = '-50px';
+letterB.style.marginLeft = '-50px';
+document.body.appendChild(letterB);
+var toggle = true;
+setInterval(function() {
+  if (toggle) {
+    letterB.style.display = 'none';
+  } else {
+    letterB.style.display = 'block';
+  }
+  toggle = !toggle;
+}, 1000);
+</script>
+<div>
