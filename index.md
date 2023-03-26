@@ -29,6 +29,8 @@ function generateRoot() {
     let pos = getRandomPosition();
     let orientation = getRandomOrientation();
     let size = getRandomSize(); 
+    let color = 'white'; // Set color to white
+}
 </script>
     
 | [Notion.BarronD/](http://notion.barrond.hns.to/) | [InnerINetwork/](http://innerinetwork.hns.to/) | [The Inner I/](http://theinneri.hns.to/) | [The.InnerI/](http://the.inneri/) | [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) | [innerinetcompany.com](https://innerinetcompany.com/) | [BeeChains doxed - gist on Keybase.io](https://gist.github.com/BeeChains/6b760437185cfb23e73b2520f7c495b6) | [IAM.BARONBARRON/](http://iam.baronbarron.hns.to/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.to/) | [Perma.TheRootZone/](http://perma.therootzone.hns.to/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.to/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.to/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.to/)
