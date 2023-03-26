@@ -5,8 +5,7 @@
 <style>
  body {
  background-color: black;
- overflow: hidden;
-	}
+       }
 		
  canvas {
  display: block;
