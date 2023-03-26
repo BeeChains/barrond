@@ -1,5 +1,6 @@
 # IAm.BarronD/
-<script>// Generate a random number between 0 and 1
+<script> 
+// Generate a random number between 0 and 1
 function getRandomNumber() {
     return Math.random();
 }
@@ -27,7 +28,8 @@ function getRandomSize() {
 function generateRoot() {
     let pos = getRandomPosition();
     let orientation = getRandomOrientation();
-    let size = getRandomSize();</script>
+    let size = getRandomSize(); 
+</script>
     
 | [Notion.BarronD/](http://notion.barrond.hns.to/) | [InnerINetwork/](http://innerinetwork.hns.to/) | [The Inner I/](http://theinneri.hns.to/) | [The.InnerI/](http://the.inneri/) | [Inner I Net Company/](http://shapereality.innerinetcompany.hns.to/) | [innerinetcompany.com](https://innerinetcompany.com/) | [BeeChains doxed - gist on Keybase.io](https://gist.github.com/BeeChains/6b760437185cfb23e73b2520f7c495b6) | [IAM.BARONBARRON/](http://iam.baronbarron.hns.to/) | [AR.InnerINetCompany/](http://ar.innerinetcompany.hns.to/) | [Perma.TheRootZone/](http://perma.therootzone.hns.to/) | [Perma.DavenportRoots/](http://perma.davenportroots.hns.to/) | [Perma.HNS-DOMAINS/](http://perma.hns-domains.hns.to/) | [Perma.HandshakeNFT/](http://perma.handshakenft.hns.to/)
 - This domain lives in a [BobWallet.io](https://bobwallet.io/) and uses [HSHUB.io](https://hshub.io/) for Nameserver and DS records. I use Git Pages for this website as its free and fast for me.
